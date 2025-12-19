@@ -93,3 +93,16 @@ The following information was gathered for 192.168.10.148:
 *   **Regular Patching:** Ensure all software on the system (OS, Nginx, OpenSSH, Samba, Jellyfin) is kept up-to-date with the latest security patches.
 *   **Firewall:** Implement a host-based firewall (e.g., UFW on Ubuntu) to restrict access to only necessary ports and trusted IP addresses.
 ```
+Detailed output from prompt
+
+## ✅ Overall Pros for me:
+⚡ AI-generated command accuracy
+⚡ How fast it built the scan sequence
+📄 Human-readable summaries
+🛡️ CVE insights / weak service identification
+🧠 “Security analyst”-style output
+
+## ⚠️ Cons / Issues Faced:
+Personally no cons for me was so great and appreciate it so much. But its not perfect — supervision and thorough inspection and verification will be needed at times.
+
+🔐 The one and only issue I faced which can be solved is allowing certain permissions to make certain tasks run.
