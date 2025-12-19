@@ -35,5 +35,6 @@ So to simply say the tools/resources used were:
 🔹 Basic Active Host Scan
 
 Used the following prompt:
+
 '''bash
 llm --functions llm-tools-nmap.py “scan this network 192.168.10.0/24 and tell me the hosts that are up with their IP”
