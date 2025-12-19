@@ -39,6 +39,8 @@ Used the following prompt:
 ```bash
 llm --functions llm-tools-nmap.py “scan this network 192.168.10.0/24 and tell me the hosts that are up with their IP”
 
+
+
 The output was detailed, well organized, and easy to understand even though it was a CLI interface.
 
 ![5th image](images/005.png)
