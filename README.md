@@ -97,12 +97,22 @@ Detailed output from prompt
 
 ## ✅ Overall Pros for me:
 ⚡ AI-generated command accuracy
+
 ⚡ How fast it built the scan sequence
+
 📄 Human-readable summaries
+
 🛡️ CVE insights / weak service identification
+
 🧠 “Security analyst”-style output
 
 ## ⚠️ Cons / Issues Faced:
 Personally no cons for me was so great and appreciate it so much. But its not perfect — supervision and thorough inspection and verification will be needed at times.
 
 🔐 The one and only issue I faced which can be solved is allowing certain permissions to make certain tasks run.
+
+![6th image](images/006.png)
+
+![7th image](images/007.png)
+
+![8th image](images/008.png)
